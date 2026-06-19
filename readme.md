@@ -11,17 +11,17 @@ Syeda Umaima</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">None</a>
 
 - 🌱 I’m currently Working on Web & App development
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning HTML < CSS <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **HTML , CSS**
 
 - 📫 How to reach me **syedaumaima795@gmail.com**
 
@@ -56,7 +56,7 @@ Syeda Umaima</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Instagram profile](https://www.instagram.com/syeda_umaima795/))
+- [Instagram profile](https://www.instagram.com/syedaumaimaofficial/))
 - [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
 - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
